@@ -1,0 +1,20 @@
+body {
+  background-color: #2C2B3D
+ }
+
+nav{
+
+}
+
+header{
+  display: flex;
+}
+
+ul, li, a{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 64px;
+  text-decoration: none;
+}
